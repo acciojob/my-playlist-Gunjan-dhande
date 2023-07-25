@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 body {
       background-color: #cccc;
+	text-align:center;
     }
 ul{
 	list-style-type: none;
